@@ -1,0 +1,10 @@
+.env
+.venv
+.excalidraw
+**/__pycache__/
+
+# Excalidraw
+*.excalidraw
+*.excalidraw.png
+*.excalidraw.svg
+.excalidraw/
